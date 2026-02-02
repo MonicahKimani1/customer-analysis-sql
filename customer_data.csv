@@ -1,0 +1,21 @@
+customer_id,customer_name,order_id,order_amount
+101,John Doe,1,200
+102,Jane Smith,2,150
+103,Bob Johnson,3,500
+101,John Doe,4,100
+104,Alice Brown,5,450
+102,Jane Smith,6,300
+105,Tom Clark,7,100
+101,John Doe,8,400
+104,Alice Brown,9,300
+102,Jane Smith,10,450
+106,Emma Wilson,11,200
+107,Michael Lee,12,300
+103,Bob Johnson,13,150
+108,Sara Adams,14,600
+101,John Doe,15,300
+102,Jane Smith,16,200
+104,Alice Brown,17,750
+105,Tom Clark,18,300
+106,Emma Wilson,19,100
+107,Michael Lee,20,100
